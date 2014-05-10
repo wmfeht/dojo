@@ -4,7 +4,7 @@ define([
 	'./io-query',
 	'./request',
 	'./store/Memory',
-    './store/DataStore',
+	'./store/DataStore',
 	'./string',
 	'./regexp',
 	'./when',
